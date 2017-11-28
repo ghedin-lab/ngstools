@@ -38,16 +38,6 @@ To undergo this Influenza pipeline you’ll need to have some software installed
 And you should be pretty comfortable with the terminal.
 
 
-## **!!!Reminder for myself!!! This stuff needs to go somewhere in the document**
-
-THERE NEEDS TO BE A CONTROL WITH YOUR SAMPLES WHEN SENT FOR SEQUENCING
-
-- ALSO NEED TO KNOW WHETHER CONTROL IS AMPLICON VS PLASMID (I.E. IS THERE A BACKBONE & WHAT IS ITS SEQUENCE)
-
-CONSISTENT RECORD FOR SAMPLE BARCODING IN CASE YOU HAVE TO GO BACK TO RAW READS FOR RE-DEMUXING
-KEEP SAMPLE NAMES CONSISTENT, BE EVER VIGILANT
-
-
 
 # Mapping
 ## Picking a reference strain
