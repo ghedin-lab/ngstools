@@ -2,7 +2,7 @@
 
 # Introduction
 
-Congratulations you sequenced Influenza!! … but now what 0.0
+Congratulations you sequenced Influenza!! .. what's next.
 The goal of this pipeline is to gauge the quality and coverage of your samples and to discover minor variants. There are scripts provided to show these in a visually pleasing big picture way to better understand emerging patterns in the data.   
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B86D2B23CDD34FE7256B52AD38AAE99CE8F73F47041F31892C3989A95E31A700_1461707731102_Screen+Shot+2016-04-26+at+5.55.05+PM.png)
@@ -119,19 +119,19 @@ The current version of my readreport.py script displays the following:
 - *name* 
 - *segment*
 - *ntpos*
-******- *binocheck* **** We use a [binomial test](https://en.wikipedia.org/wiki/Binomial_test) to make sure that reads that contain the minor variant do not overwhelmingly come from either orientation (forward vs reverse). 
-****- *major*
-******- *majorfreq* ******
-****- *minor*
-******- *minorfreq*
-****- *A* ****These are the raw read counts for each base
-****- *C*
+- *binocheck*  We use a [binomial test](https://en.wikipedia.org/wiki/Binomial_test) to make sure that reads that contain the minor variant do not overwhelmingly come from either orientation (forward vs reverse). 
+- *major*
+- *majorfreq* 
+- *minor*
+- *minorfreq*
+- *A* These are the raw read counts for each base
+- *C*
 - *G*
 - *T*
 - *totalcount*
 - *ref_nt* Indicates the reference strain nucleotide
-**- *reference=major* This flag helps indicate a consensus change from the reference
-**- *aapos*
+- *reference=major* This flag helps indicate a consensus change from the reference
+- *aapos*
 - *majorcodon*
 - *majoraa*
 - *minorcodon*
